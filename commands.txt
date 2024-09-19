@@ -5,5 +5,10 @@ git status
 git log 
 git log --oneline 
 git log --oneline --pretty
-
-
+git rm --cached
+git restore
+git checkout -b 
+git branch -D 
+git config --global user.name 
+git config --global user.email
+git remote -v 
