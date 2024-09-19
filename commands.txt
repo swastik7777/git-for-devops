@@ -1,0 +1,9 @@
+git init
+git add
+git commit -m 
+git status
+git log 
+git log --oneline 
+git log --oneline --pretty
+
+
